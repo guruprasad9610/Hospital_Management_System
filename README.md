@@ -48,7 +48,7 @@ Define user roles and permissions to ensure data security and privacy.
 
 6. Import hms.sql file(given inside the zip package in SQL file folder)
 
-7.Run the script http://localhost/hospital (frontend)
+7. Run the script http://localhost/hospital (frontend)
 
 ## Login Details
 
