@@ -40,7 +40,7 @@ Define user roles and permissions to ensure data security and privacy.
 
 2. Extract the file and copy hospital folder
 
-3.Paste inside root directory(for xampp xampp/htdocs, for wamp wamp/www, for lamp var/www/html)
+3. Paste inside root directory(for xampp xampp/htdocs, for wamp wamp/www, for lamp var/www/html)
 
 4. Open PHPMyAdmin (http://localhost/phpmyadmin)
 
