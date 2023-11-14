@@ -1,6 +1,6 @@
 # Hospital_Management_System
 
-Hospital Management System is a comprehensive and user-friendly software solution designed to streamline and automate various administrative and clinical processes within a healthcare facility. This open-source project is dedicated to improving the efficiency and effectiveness of hospitals, clinics, and healthcare centers worldwide. This system simplifies and automates tasks related to patient management, appointment scheduling, billing, and more, enabling healthcare providers to focus on delivering quality patient care.
+Hospital Management System is a comprehensive and user-friendly software solution designed to streamline and automate various administrative and clinical processes within a healthcare facility. This open-source project is dedicated to improving the efficiency and effectiveness of hospitals, clinics, and healthcare centers worldwide. This system simplifies and automates tasks related to patient management, appointment scheduling, billing, and more, enabling healthcare providers to focus on delivering quality patient care
 
 ## Features
 
